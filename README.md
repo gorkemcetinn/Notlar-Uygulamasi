@@ -1,4 +1,4 @@
-#Notlar Uygulaması
+# Notlar Uygulaması
 
 Fluter ile geliştirilmiş olan bu uygulama kullanıcının girdiği notların ortalamasını alır.
 
